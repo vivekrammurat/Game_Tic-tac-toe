@@ -2,6 +2,10 @@
 ## This is Tic-tac-toe game in Kotline
 
 ### step 1. home.xml
+### This is preview
+![home_photo](https://user-images.githubusercontent.com/32396933/44253918-cdc8af00-a21e-11e8-98fd-6e6672725095.PNG)
+
+
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
